@@ -1,0 +1,6 @@
+tqdm
+openai
+elasticsearch
+scikit-learn
+pandas
+jupyter notebook
